@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hello! I'm Samira bouhadi
 
-<!--
-**samirabouhadi/samirabouhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer passionate about building applications, with expertise in both frontend and backend development.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Frontend**: ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![React](https://img.shields.io/badge/-React-blue) ![Next.js](https://img.shields.io/badge/-Next.js-black)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Java](https://img.shields.io/badge/-Java-red) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
+- **Database**: ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Jira](https://img.shields.io/badge/-Jira-blue) ![Postman](https://img.shields.io/badge/-Postman-orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- **[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/samira-b-a03b20230/))**
+- **[Email](mailto:samira.bouhadi20@ump.ac.ma)**
+
+---
+
