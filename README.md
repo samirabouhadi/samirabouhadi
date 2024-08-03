@@ -9,7 +9,7 @@ I am a Full Stack Developer passionate about building applications, with experti
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Jira](https://img.shields.io/badge/-Jira-blue) ![Postman](https://img.shields.io/badge/-Postman-orange)
 
 ### 🌐 Connect with Me
-- **[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/samira-b-a03b20230/))**
+- **[LinkedIn](https://www.linkedin.com/in/samira-b-a03b20230/)**
 - **[Email](mailto:samira.bouhadi20@ump.ac.ma)**
 
 ---
